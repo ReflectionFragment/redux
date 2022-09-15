@@ -1,0 +1,4 @@
+.bar {
+    grid-area: bar;
+    background-color: darkred;
+}

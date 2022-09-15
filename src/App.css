@@ -1,0 +1,18 @@
+
+.app-wrapper {
+    width:1200px;
+    display: grid;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-area: 0 auto;
+    gap: 10px;
+    grid-template-areas:
+    "h h"
+    "b c";
+    background-color: rgba(0, 250, 250, 0.6);
+/*background: url(https://funart.pro/uploads/posts/2021-04/thumbs/1618569270_5-funart_pro-p-oboi-fon-manga-fon-6.png);*/
+}
+
+
+
+

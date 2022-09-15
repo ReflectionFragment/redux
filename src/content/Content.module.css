@@ -1,0 +1,11 @@
+.content {
+    /*width:px;*/
+    grid-area: c;
+    background-color: rgba(153, 51, 139, 0);
+}
+
+.content img{
+    width: 800px;
+    border-radius: 5px;
+}
+

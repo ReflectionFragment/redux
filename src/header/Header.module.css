@@ -1,0 +1,10 @@
+.head{
+    background-color: aqua;
+    grid-area: h;
+
+}
+
+.head img {
+    width: 60px;
+
+}

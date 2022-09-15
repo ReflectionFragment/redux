@@ -1,0 +1,11 @@
+.content {
+    grid-area: c;
+    background-color: #2a88a5;
+
+}
+.content img{
+    width: 100px;
+}
+.posts{
+    margin-top: 10px;
+}
